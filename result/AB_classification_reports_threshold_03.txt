@@ -1,0 +1,140 @@
+
+[Fold 1]
+Confusion Matrix:
+[[98, 0], [6, 8]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0     0.9423    1.0000    0.9703        98
+           1     1.0000    0.5714    0.7273        14
+
+    accuracy                         0.9464       112
+   macro avg     0.9712    0.7857    0.8488       112
+weighted avg     0.9495    0.9464    0.9399       112
+
+
+[Fold 2]
+Confusion Matrix:
+[[97, 1], [9, 5]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0     0.9151    0.9898    0.9510        98
+           1     0.8333    0.3571    0.5000        14
+
+    accuracy                         0.9107       112
+   macro avg     0.8742    0.6735    0.7255       112
+weighted avg     0.9049    0.9107    0.8946       112
+
+
+[Fold 3]
+Confusion Matrix:
+[[96, 1], [9, 6]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0     0.9143    0.9897    0.9505        97
+           1     0.8571    0.4000    0.5455        15
+
+    accuracy                         0.9107       112
+   macro avg     0.8857    0.6948    0.7480       112
+weighted avg     0.9066    0.9107    0.8962       112
+
+
+[Fold 4]
+Confusion Matrix:
+[[97, 0], [5, 10]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0     0.9510    1.0000    0.9749        97
+           1     1.0000    0.6667    0.8000        15
+
+    accuracy                         0.9554       112
+   macro avg     0.9755    0.8333    0.8874       112
+weighted avg     0.9575    0.9554    0.9515       112
+
+
+[Fold 5]
+Confusion Matrix:
+[[96, 1], [8, 7]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0     0.9231    0.9897    0.9552        97
+           1     0.8750    0.4667    0.6087        15
+
+    accuracy                         0.9196       112
+   macro avg     0.8990    0.7282    0.7820       112
+weighted avg     0.9166    0.9196    0.9088       112
+
+
+[Fold 6]
+Confusion Matrix:
+[[96, 1], [7, 8]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0     0.9320    0.9897    0.9600        97
+           1     0.8889    0.5333    0.6667        15
+
+    accuracy                         0.9286       112
+   macro avg     0.9105    0.7615    0.8133       112
+weighted avg     0.9263    0.9286    0.9207       112
+
+
+[Fold 7]
+Confusion Matrix:
+[[97, 0], [8, 6]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0     0.9238    1.0000    0.9604        97
+           1     1.0000    0.4286    0.6000        14
+
+    accuracy                         0.9279       111
+   macro avg     0.9619    0.7143    0.7802       111
+weighted avg     0.9334    0.9279    0.9149       111
+
+
+[Fold 8]
+Confusion Matrix:
+[[95, 2], [6, 8]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0     0.9406    0.9794    0.9596        97
+           1     0.8000    0.5714    0.6667        14
+
+    accuracy                         0.9279       111
+   macro avg     0.8703    0.7754    0.8131       111
+weighted avg     0.9229    0.9279    0.9226       111
+
+
+[Fold 9]
+Confusion Matrix:
+[[96, 1], [4, 10]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0     0.9600    0.9897    0.9746        97
+           1     0.9091    0.7143    0.8000        14
+
+    accuracy                         0.9550       111
+   macro avg     0.9345    0.8520    0.8873       111
+weighted avg     0.9536    0.9550    0.9526       111
+
+
+[Fold 10]
+Confusion Matrix:
+[[97, 0], [11, 3]]
+Classification Report:
+              precision    recall  f1-score   support
+
+           0     0.8981    1.0000    0.9463        97
+           1     1.0000    0.2143    0.3529        14
+
+    accuracy                         0.9009       111
+   macro avg     0.9491    0.6071    0.6496       111
+weighted avg     0.9110    0.9009    0.8715       111
+
